@@ -21,8 +21,9 @@ body {
     flex-direction: column;
     color: white;
     align-items: center;
-    font-size: clamp(16px, 5vw, 36px);
+    font-size: clamp(20px, 5vw, 36px);
     font-weight: 700;
+    width: 90%;
 }
 .container {
     width: 500px;
