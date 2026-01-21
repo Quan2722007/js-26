@@ -21,9 +21,11 @@ body {
     flex-direction: column;
     color: white;
     align-items: center;
+    font-size: clamp(18px, 5vw, 36px);
 }
 .container {
     width: 500px;
+    max-width: 90%;
     display: flex;
     flex-direction: column;
     gap: 15px;
